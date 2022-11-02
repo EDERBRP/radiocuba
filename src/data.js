@@ -84,7 +84,6 @@ function chillHop() {
             audio: "https://icecast.teveo.cu/TsxMM94R",
             active: false,
         },
-        
         {
             name:"CMBV Radio Taino",
             artist: "Radio Taino",
@@ -92,6 +91,15 @@ function chillHop() {
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
             audio: "https://icecast.teveo.cu/3MCwWg3V",
+            active: false,
+        },
+        {
+            name:"Radio Angulo",
+            artist: "Radio Angulo",
+            cover: "https://static2.mytuner.mobi/media/tvos_radios/ujufa38dx4fg.jpeg",
+            id: uuidv4(),
+            color: ["#008781", "#cfc08c"],
+            audio: "https://icecast.teveo.cu/hmVcdgM7",
             active: false,
         },
     ];
