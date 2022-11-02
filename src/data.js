@@ -255,12 +255,12 @@ function chillHop() {
             active: false,
         },
         {
-            name:"Radio Cuba Libre Internacional",
-            artist: "Cuba Internacional",
-            cover: "https://static2.mytuner.mobi/media/tvos_radios/tdnnxrgvqysz.jpeg",
+            name:"Radio Guamá",
+            artist: "Radio Guamá",
+            cover: "https://static2.mytuner.mobi/media/tvos_radios/kukc3rqjjt62.png",
             id: uuidv4(),
             color: ["#008781", "#cfc08c"],
-            audio: "http://usa8.fastcast4u.com:5002/;",
+            audio: "https://icecast.teveo.cu/ngcdcV3k",
             active: false,
         },
         {
